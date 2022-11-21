@@ -99,7 +99,9 @@ ${description}
 ${installation}
 
 ## Usage
-${usage}
+${usage}<br/>
+The video below walksthrough the app.</br>
+https://watch.screencastify.com/v/Fuk5NiAi0z3CO3f7vCRo
 
 ## Contributors
 ${contribution}
